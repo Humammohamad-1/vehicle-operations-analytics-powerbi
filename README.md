@@ -1,26 +1,23 @@
-# vehicle-operations-analytics-powerbi
-This Power BI report analyzes vehicle service costs, supplier efficiency, and SLA performance using mock operational data.
+# 🚗 Vehicle Operations Analytics (Power BI)
 
-## 📊 Pages Included:
-- Welcome Page
-- Operational Cost Trends
-- Supplier Insights
-- Vehicle & Brand Analysis
-- Fleet Efficiency Overview
-- Q&A Natural Language Page
+A professional Power BI report analyzing vehicle service costs, supplier performance, SLA compliance, and efficiency patterns using mock fleet operations data.
 
-## 🔧 Features Used:
-- Q&A visual
-- Conditional formatting
-- Tooltips
-- Page navigation
-- Custom DAX measures
+## 📂 Report Pages
 
-## 🎯 Insights:
-- SLA compliance decreases with long service durations
-- Diesel vehicles show higher cumulative service cost due to usage frequency
-- Certain suppliers deliver high value with short duration and strong SLA performance
+- **Welcome** – Cover page with author and title
+- **Operational Cost Trends** – Monthly cost, SLA rate, labor cost per visit
+- **Supplier Insights** – SLA vs Cost vs Duration by supplier
+- **Vehicle & Brand Analysis** – Fuel, brand, cost patterns
+- **Fleet Efficiency Overview** – SLA compliance vs duration, average cost per visit
+- **Natural Language Q&A** – AI-powered questions using Power BI Q&A
 
-## ⚙️ Tools:
-- Power BI Desktop
-- Python (data generation)
+## 🔧 Features Demonstrated
+
+- Advanced relationships & star schema modeling
+- DAX measures for cost, averages, compliance
+- Tooltips, treemaps, conditional formatting
+- Q&A visual customization
+- Branded slicers, visual icons, navigation buttons
+- Clean visual design and layout consistency
+
+## 📁 File Structure
